@@ -10,5 +10,5 @@ Raw ADC Test: Initial proof-of-concept for ADC conversions using direct register
 Raw GPIO Test (Jan 2026): Early pin toggling and setup with SYSTICK Blocking led blink
 
 ## Main Project
-If you are looking for my actual, production-ready hardware abstraction layer, please visit my main repository. It contains clean, struct-based drivers for GPIO, SysTick, and ADC:
+If you are looking for my hardware abstraction layer API, please visit my main repository. 
 https://github.com/AgamyaSharma/stm32f302xx_drivers
