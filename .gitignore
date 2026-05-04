@@ -54,3 +54,4 @@ obj/
 # Linker Scripts 
 *.ld
 *.launch
+Src/main.c
